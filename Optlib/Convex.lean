@@ -2,6 +2,7 @@ import Optlib.Convex.BanachSubgradient
 import Optlib.Convex.ClosedCone
 import Optlib.Convex.ConicCaratheodory
 import Optlib.Convex.ConvexFunction
+import Optlib.Convex.DomainSubgradient
 import Optlib.Convex.Farkas
 import Optlib.Convex.ImageSubgradientClosed
 import Optlib.Convex.QuasiConvexFirstOrder
